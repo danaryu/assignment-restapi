@@ -1,10 +1,10 @@
-package com.musinsa.category;
+package com.musinsa.assignment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CategoryApplicationTests {
+class AssignmentApplicationTests {
 
 	@Test
 	void contextLoads() {

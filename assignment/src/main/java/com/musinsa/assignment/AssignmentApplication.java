@@ -1,13 +1,13 @@
-package com.musinsa.category;
+package com.musinsa.assignment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CategoryApplication {
+public class AssignmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CategoryApplication.class, args);
+		SpringApplication.run(AssignmentApplication.class, args);
 	}
 
 }
